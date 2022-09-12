@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html> 
+    <head> 
+          <meta charset= "utf-8">
+          <title> About Osman </title> 
+</head>
+    <body>
+      <img src= "csc106_banner.jpeg"> 
+  <br>  
+  <br>      
+      <img src= "home button.png">
+      <img src= "javascript button.png">
+      <img src= "about me button.png">  
+ <br>
+    
+  
+        <h1> About me </h1>
+        
+        <p>  </p> 
+            <br>
+            Back to <a href= "https://obarrie.github.io/Index.html"> home page </a>
+            
+    </body>
+
+
+ 
